@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("razdelnik-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11eaf61c767b83091032869efacc3dfb5d191b16")]
 [assembly: System.Reflection.AssemblyProductAttribute("razdelnik-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("razdelnik-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -160,3 +160,4 @@ C:\Users\dusan\OneDrive\Desktop\Razdelnik-Web\backend\razdelnik-backend\obj\Debu
 C:\Users\dusan\OneDrive\Desktop\Razdelnik-Web\backend\razdelnik-backend\obj\Debug\net9.0\razdelnik-backend.pdb
 C:\Users\dusan\OneDrive\Desktop\Razdelnik-Web\backend\razdelnik-backend\obj\Debug\net9.0\razdelnik-backend.genruntimeconfig.cache
 C:\Users\dusan\OneDrive\Desktop\Razdelnik-Web\backend\razdelnik-backend\obj\Debug\net9.0\ref\razdelnik-backend.dll
+C:\Users\dusan\OneDrive\Desktop\Razdelnik-Web\backend\razdelnik-backend\obj\Debug\net9.0\razdelnik-backend.sourcelink.json
